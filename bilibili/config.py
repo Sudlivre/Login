@@ -1,0 +1,2 @@
+EMAIL = 'sudlivre'
+PASSWORD = 'password'
