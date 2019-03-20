@@ -1,0 +1,2 @@
+EMAIL = '*****@qq.com'
+PASSWORD = '******'
